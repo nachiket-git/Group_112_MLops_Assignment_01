@@ -47,8 +47,8 @@ The objective is to demonstrate industry-standard practices for building, deploy
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/Group_125_MLops_Assignment_01.git
-cd Group_125_MLops_Assignment_01
+git clone https://github.com/<your-username>/Group_112_MLops_Assignment_01.git
+cd Group_112_MLops_Assignment_01
 
 2. Create virtual environment:
 python3 -m venv .venv
